@@ -5,8 +5,6 @@ This app makes it easy to display a map for any given address in
 django_ templates. No manual geocoding, html/js copy-pasting or Django
 model changes are needed.
 
-Authored by `Mikhail Korobov <http://kmike.ru/>`_, and some great
-`contributors <https://github.com/kmike/django-easy-maps/contributors>`_.
 
 .. image:: https://img.shields.io/pypi/v/django-easy-maps.svg
     :target: https://pypi.python.org/pypi/django-easy-maps/
@@ -152,16 +150,7 @@ field. It can be used in the admin for map previews. For example:
 
 ``address`` field should be either a ``CharField`` or ``TextField``.
 
-Contributing
-------------
 
-If you've found a bug, implemented a feature or customized the template and
-think it is useful then please consider contributing. Patches, pull requests or
-just suggestions are welcome!
 
-License
--------
-
-``django-easy-maps`` is released under the MIT license.
 
 .. _django: https://www.djangoproject.com
