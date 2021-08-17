@@ -1,0 +1,10 @@
+1. Chat Application
+
+This is one of the excellent Django project ideas for beginners. Chatting apps are in high demand. WhatsApp, Facebook Messenger, Telegram, are just a few of the most prominent chat apps out there. Building one of these will surely make your portfolio look more advanced. Creating a chat app with Django isn’t much difficult. You wouldn’t have much storage space so you can follow the route of Snapchat, i.e., delete older chats and save only the recent ones. Keep the interface exciting and add the option of sending voice messages, too, if you can. 
+
+2. To-Do App 
+A to-do app is a software application that lets you make a list of tasks that you need to complete. You can make daily or weekly lists of tasks in a to-do app. Once you complete a task, you can mark it “completed” and update your to-do list. It is a convenient app that lets you keep track of your chores.
+To build a to-do app, you need not be a proficient Django developer – you only need to have good knowledge of Django basics. You can create a simple to-do app using tools like JavaScript, HTML, and CSS, and then host your app on the localhost server by using Django/Flask framework.
+
+3. Interactive Maps
+Do you use Google Maps for navigation? You can create your version of Google Maps, as in an interactive map by using Django. A simple map will only give the location of the user, but by adding a few animations, you can make it more interactive and exciting. The map can change its graphics according to the user’s location and options. It can be a pretty useful solution. Moreover, you’ll get valuable experience out of it.
