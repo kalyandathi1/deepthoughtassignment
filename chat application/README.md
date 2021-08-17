@@ -1,16 +1,8 @@
 # Django Chat App
 
-## User Manual
 
-#### FOR LOCAL USE
-<ul>
-<li>Minimum <b>System</b> requirements- Windows 7 Or Later;  2 GB RAM atleast;  Access To The Internet;  2012 Or Later Build System</li>
-<li>Minimum <b>Browser</b> requirements- Chromium Version 67.98 Or Later; Recommend Browser(s): Microsoft Edge(Chromium) OR Google Chrome</li>
-<li><b>Python</b> Requirements: 3.7.7 Or Greater;</li>
-<li><b>Django</b> Requirements: 3.0.8 Or Greater;</li>
-<li><b>Git</b> Requirements: 2.26.2 Or Greater;</li>
-</ul></br>
-<hr/>
+
+
 
 
 #### How-To: Run This
@@ -24,9 +16,3 @@
 <hr/>
 
 
-#### How-To: Chat:
-**In My Site There Is A Full User Manual Please Read It You'll Come To Know How To Chat**</br>
-<hr/>
-
-
-## Happy Chatting With Chattr!
